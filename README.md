@@ -2,7 +2,7 @@
 This repo estimates Value at Risk (VaR) using historical simulation, bootstrapping, and Monte Carlo methods, providing insights into portfolio risk assessment.
  
 ### Overview  
-This project analyzes financial risk using **Value at Risk (VaR) for a 4-stock portfolio (AAPL, AMZN, GOOGL, MSFT). We estimate 99% VaR using:  
+This project analyzes financial risk using Value at Risk (VaR) for a 4-stock portfolio (AAPL, AMZN, GOOGL, MSFT). We estimate 99% VaR using:  
 - Historical Simulation – Based on past returns.  
 - Bootstrapping – Resampling historical data for robust estimation.  
 - Monte Carlo Simulation (t-distribution) – Accounts for fat tails and extreme market conditions.  
